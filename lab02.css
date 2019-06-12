@@ -1,0 +1,49 @@
+#myCanvas {
+    background-color: #87CEFA;
+    display: block;
+    margin: 0 auto;
+}
+
+#menue {
+    display: block;
+    margin: 0 auto;
+    width: 800px;
+
+}
+
+.containerL {
+    width: 50%;
+    height: 100px;
+    float: left;
+}
+
+.containerR {
+    height: 100px;
+    width: 50%;
+    float: right;
+}
+
+.text {
+    float: right;
+    margin-right: 8%;
+}
+
+.clean {
+    clear: both;
+}
+
+.slider {
+    float: right;
+    margin-top: 7%;
+    margin-right: 50%;
+}
+
+#numberfield {
+    margin-top: 5%;
+    float: left;
+}
+
+#himmel_label {
+    float: left;
+    margin-top: 7%;
+}
